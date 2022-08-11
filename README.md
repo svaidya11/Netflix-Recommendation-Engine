@@ -6,6 +6,6 @@ Collaborative Filtering is a Machine Learning technique used to identify relatio
 
 Netflix keeps track and monitors our viewing activities to give better movie recommendations in the future. It has a history like what movies we like or don’t like, the rating we give to the movies, which movies we have finished watching and not watched for some time, or when we are adding or removing a movie to/from our list.
 
-Goal of  Netflix-Recommendation-Engine :
+# Goal of  Netflix-Recommendation-Engine :
 
 Netflix recommends the next movies to watch based on the user’s viewing activity. When several users watched movies together in a certain category (i.e., action genre), similar next-movies-to-watch can be suggested to multiple users within this category. This is an illustration of collaborative filtering.
